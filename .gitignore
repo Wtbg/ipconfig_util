@@ -1,2 +1,4 @@
 /.history
 .env
+/provide_ipconfig/target
+/send_ipconfig/target
